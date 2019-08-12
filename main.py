@@ -2,10 +2,6 @@ import pandas as pd
 import numpy as np
 import math
 
-#pin: 8930655055542458
-#submit at:
-#http://www.cse.scu.edu/~yfang/coen169/submit.html
-
 THRESHOLD_MODE = 0
 KNN_MODE = 1
 
